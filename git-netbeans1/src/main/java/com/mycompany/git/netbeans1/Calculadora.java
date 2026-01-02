@@ -8,6 +8,9 @@ package com.mycompany.git.netbeans1;
  *
  * @author Xavloh
  */
+/**
+ * Modificado desde GitHub
+ */
 public class Calculadora {
 
     public static void main(String[] args) {
