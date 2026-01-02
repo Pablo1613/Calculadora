@@ -12,7 +12,10 @@ package com.mycompany.git.netbeans1;
  * Modificado desde GitHub
  */
 /**
- * Modificado desde NetBeans
+ * Modificado desde GitHub
+ */
+/**
+ * Modificación rama1
  */
 public class Calculadora {
 
